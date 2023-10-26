@@ -8,6 +8,6 @@ public class Demo
    } 
    public void m1()
    {
-	system.out.println("Prerana");
+	System.out.println("Prerana");
    }
 }
