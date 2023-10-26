@@ -7,5 +7,9 @@ public class Demo_Program
 		System.out.println("Prerna Mame");
 		
 	}
+	public void m1()
+	{
+		System.out.println("Smita Mam");
+	}
 
 }
