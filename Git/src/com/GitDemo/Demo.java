@@ -6,4 +6,8 @@ public class Demo
    {
 	  System.out.println("I am Learning a java program");
    } 
+   public void m1()
+   {
+	system.out.println("Prerana");
+   }
 }
