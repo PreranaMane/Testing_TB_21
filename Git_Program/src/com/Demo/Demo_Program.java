@@ -12,10 +12,9 @@ public class Demo_Program
 	{
 		System.out.println("M3-Method");
 	}
-
 	public static void main(String[] args) 
 	{
-		System.out.println("Prerna Mame");
+		System.out.println("\");
 		
 	}
 }
