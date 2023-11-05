@@ -2,6 +2,10 @@ package com.Demo;
 
 public class Demo_Program 
 {
+	public void m1()
+	{
+		System.out.println("M1-Method");
+	}
 
 	public void m2()
 	{
